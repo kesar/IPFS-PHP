@@ -1,4 +1,4 @@
-# EOS RPC Client in PHP
+# IPFS Client in PHP
 
 ### Install:
 ```bash
